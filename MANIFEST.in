@@ -1,0 +1,5 @@
+include README.md LICENSE
+recursive-include griznog *
+recursive-exclude .git *
+prune griznog/__pycache__
+prune docs*
