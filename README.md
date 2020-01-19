@@ -160,5 +160,15 @@ For any of the above, if your terminal doesn't support color, just disable it.
 
 ### Container Usage
 
+Griznog is... trapped in a container!
+
+```bash
+docker run -it quay.io/vanessa/griznog speak
+
+job security. I get scared when any of this works too well.
+
+--Griznog 4/12/2018
+```
+
 Do you have a question? Or want to suggest a feature to make it better?
 Please [open an issue!](https://www.github.com/vsoch/griznog/issues)
