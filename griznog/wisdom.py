@@ -1337,4 +1337,112 @@ thoughts = [
         "quote": "Texas people are my kinda people, you wouldn’t understand.\n",
         "date": "2019",
     },
+    {
+        "quote": "I wanted to add an emoji to that, but there's no socks+sandals emoji, all other shoe options are unacceptable..\n",
+        "date": "4/26/2019",
+    },
+    {
+        "quote": "You laugh, but a recurring thorn for me is people sending screenshots of a terminal (from a screenshot app or phone), from which I can't copy/paste the long command line they are sending me. I laugh about this, but I'm not sure exactly where the tears come from.\n",
+        "date": "2/25/2019",
+    },
+    {
+        "quote": "No, clearly we spend too much time emailing each other.\n",
+        "date": "1/31/2019",
+    },
+    {
+        "quote": "I recently had a minor series of epiphanies. A problem the world as a whole faces is that humans do not like to maintain, they crave novelty and new. Because of this things are built up to a peak point of usefulness, after which they either are abandoned and go into decline eventually crumbling or they get 'features' added until the original usefulness is buried under layers of arbitrary, over-hyped abstraction. The second epiphany was that I realized as I get older I do not crave the 'good old days'; if you follow the data there is no such thing as 'good old days'. What I crave are those lost usefulness peaks that will never be matched as the new peaks are shorter and yet at the same time the things themselves are more complex and less robust. Ultimately what I see from my cynical perch is technology following the same path we've seen in academic administration during the course of my life, an explosion of meaningless, pointless, often duplicated effort that drains resources and leaves people feeling empty, as if their life is about nothing more than incrementally 'improving' targeted ads.\n",
+        "date": "10/24/2018",
+    },
+    {
+        "quote": "Singularity vs. Conda. That's like asking do you prefer your poison in a glass or straight off the vine?\n",
+        "date": "10/24/2018",
+    },
+    {
+        "quote": "Good point. I'm probably biased as a backhoe operator because I'm tired of people trying to force me to use a rube goldberg designed shovel.\n",
+        "date": "10/24/2018",
+    },
+    {
+        "quote": "The nature of excessive aggression is that it's hard to predict unintended consequences.\n",
+        "date": "2/7/2019",
+    },
+    {
+        "quote": "We can keep you tightly bound if needed, I just need a target to shoot at. :D\n",
+        "date": "1/31/2019",
+    },
+    {
+        "quote": "The old ways are dying...\n",
+        "date": "12/12/2018",
+    },
+    {
+        "quote": "Which I sort of recall skimming through and only reading the hardware bits.\n",
+        "date": "1/31/2019",
+    },
+    {
+        "quote": "I was staying home to wait for a package to be delivered. Then I fell for the old 'will you watch the dog? I'll be back by 1' line. Again. You think I'd know better by now. I have the package, it is 1 but, I'm still alone.\n",
+        "date": "6/8/2018",
+    },
+    {
+        "quote": "You joke about this but I'm pretty sure advanced Cisco Network Admin training does involve blood sacrifice.\n",
+        "date": "6/13/2018",
+    },
+    {
+        "quote": "Google did it.\n",
+        "date": "9/6/2018",
+    },
+    {
+        "quote": "I have no time, so should be considered last. But this overlaps with some other projects I have on my to-do list so I could kill several birds with one container, so to speak.\n",
+        "date": "1/26/2018",
+    },
+    {
+        "quote": "I didn't kill it, I was still trying to think of how I'd kill such a thing.\n",
+        "date": "3/26/2018",
+    },
+    {
+        "quote": "So yeah, I'm saying installed, breaking eye contact and backing away slowly in a non-threatening way.\n",
+        "date": "2/9/2018",
+    },
+    {
+        "quote": "Genomicidal Maniacs (<- possible band name.)\n",
+        "date": "1/24/2018",
+    },
+    {
+        "quote": "Yes, just need files to disappear. They don't have to go home, but they can't stay here.\n",
+        "date": "11/1/2017",
+    },
+    {
+        "quote": "There has never been a moment in my life when a new gadget could not distract me.\n",
+        "date": "10/26/2017",
+    },
+    {
+        "quote": "Aha, it hates me because I make stupid typos. That makes sense.\n",
+        "date": "10/30/2017",
+    },
+    {
+        "quote": "Tired. Poor. Hungry.\n",
+        "date": "11/14/2017",
+    },
+    {
+        "quote": "Random walks through a solution space are my forte.\n",
+        "date": "10/27/2017",
+    },
+    {
+        "quote": "It takes a special kind of mental deficiency to stare at a screen waiting to press a key for minutes and hours. Fortunately I have many deficiencies to choose from.\n",
+        "date": "10/12/2017",
+    },
+    {
+        "quote": "This website is killing me. Somewhere a massive team of developers is congratulating themselve on some complex schema and data flow, all the latest widgets and gizmos, a hperscale cloud infrastructure, blah blah blah. Meanwhiel I'm watchign a spinning wheel. If the spinning would at least hypnotize me and make me act like a chicken that would be something.\n",
+        "date": "10/23/2017",
+    },
+    {
+        "quote": "When a project needs a new build system, you know it won't go well.\n",
+        "date": "10/6/2017",
+    },
+    {
+        "quote": "Disco nights at the community center.\n",
+        "date": "10/6/2017",
+    },
+    {
+        "quote": "Yes, that sounds great. I probably should have adult supervision anyway.\n",
+        "date": "10/23/2017",
+    },
 ]
