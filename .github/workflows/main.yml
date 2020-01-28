@@ -35,3 +35,10 @@ jobs:
           export PATH="/usr/share/miniconda/bin:$PATH"
           source activate griznog
           python setup.py install
+
+      - name: Test griznog
+        run: |
+          export PATH="/usr/share/miniconda/bin:$PATH"
+          source activate griznog
+          pip install pytest
+          pytest .github/test_wisdom.py

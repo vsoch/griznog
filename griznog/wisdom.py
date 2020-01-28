@@ -1369,10 +1369,7 @@ thoughts = [
         "quote": "We can keep you tightly bound if needed, I just need a target to shoot at. :D\n",
         "date": "1/31/2019",
     },
-    {
-        "quote": "The old ways are dying...\n",
-        "date": "12/12/2018",
-    },
+    {"quote": "The old ways are dying...\n", "date": "12/12/2018"},
     {
         "quote": "Which I sort of recall skimming through and only reading the hardware bits.\n",
         "date": "1/31/2019",
@@ -1385,10 +1382,7 @@ thoughts = [
         "quote": "You joke about this but I'm pretty sure advanced Cisco Network Admin training does involve blood sacrifice.\n",
         "date": "6/13/2018",
     },
-    {
-        "quote": "Google did it.\n",
-        "date": "9/6/2018",
-    },
+    {"quote": "Google did it.\n", "date": "9/6/2018"},
     {
         "quote": "I have no time, so should be considered last. But this overlaps with some other projects I have on my to-do list so I could kill several birds with one container, so to speak.\n",
         "date": "1/26/2018",
@@ -1401,10 +1395,7 @@ thoughts = [
         "quote": "So yeah, I'm saying installed, breaking eye contact and backing away slowly in a non-threatening way.\n",
         "date": "2/9/2018",
     },
-    {
-        "quote": "Genomicidal Maniacs (<- possible band name.)\n",
-        "date": "1/24/2018",
-    },
+    {"quote": "Genomicidal Maniacs (<- possible band name.)\n", "date": "1/24/2018"},
     {
         "quote": "Yes, just need files to disappear. They don't have to go home, but they can't stay here.\n",
         "date": "11/1/2017",
@@ -1417,10 +1408,7 @@ thoughts = [
         "quote": "Aha, it hates me because I make stupid typos. That makes sense.\n",
         "date": "10/30/2017",
     },
-    {
-        "quote": "Tired. Poor. Hungry.\n",
-        "date": "11/14/2017",
-    },
+    {"quote": "Tired. Poor. Hungry.\n", "date": "11/14/2017"},
     {
         "quote": "Random walks through a solution space are my forte.\n",
         "date": "10/27/2017",
@@ -1437,10 +1425,7 @@ thoughts = [
         "quote": "When a project needs a new build system, you know it won't go well.\n",
         "date": "10/6/2017",
     },
-    {
-        "quote": "Disco nights at the community center.\n",
-        "date": "10/6/2017",
-    },
+    {"quote": "Disco nights at the community center.\n", "date": "10/6/2017"},
     {
         "quote": "Yes, that sounds great. I probably should have adult supervision anyway.\n",
         "date": "10/23/2017",
