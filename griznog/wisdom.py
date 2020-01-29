@@ -10,7 +10,7 @@ with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 thoughts = [
     {
-        "quote": 'I would probably be Scrooge-like, but am too lazy to put in the effort. Which also applies to non-Scrooge-like holiday behaviors. Perhaps "holiday-agnostic" sums it up. Much like honey badger, I just don\'t care.',
+        "quote": '[RE: Holidays] I would probably be Scrooge-like, but am too lazy to put in the effort. Which also applies to non-Scrooge-like holiday behaviors. Perhaps "holiday-agnostic" sums it up. Much like honey badger, I just don\'t care.',
         "date": "12/19/2017",
     },
     {
@@ -18,31 +18,27 @@ thoughts = [
         "date": "12/19/2017",
     },
     {
-        "quote": 'I would probably be Scrooge-like, but am too lazy to put in the effort. Which also applies to non-Scrooge-like holiday behaviors. Perhaps "holiday-agnostic" sums it up. Much like honey badger, I just don\'t care.\n',
-        "date": "12/19/2017",
-    },
-    {
         "quote": "A cyclops baby would never know the joy of dressing as a pirate on halloween.\n",
         "date": "12/21/2017",
     },
     {
-        "quote": "Implies that only HPC users are gullible enough to pay full price, which, given our half-witted decades long clinging to MPI, is a reasonable assumption.\n",
+        "quote": "[RE: HPC in the cloud] ... Implies that only HPC users are gullible enough to pay full price, which, given our half-witted decades long clinging to MPI, is a reasonable assumption.\n",
         "date": "12/31/2017",
     },
     {
-        "quote": "I need to go to SRCF to beat a server into submission fix a problem. Taking the bus out there and then walking home after, so have a good weekend everyone.\n",
+        "quote": "[RE: Excuses to leave work early] I need to go to SRCF to beat a server into submission fix a problem. Taking the bus out there and then walking home after, so have a good weekend everyone.\n",
         "date": "1/12/2018",
     },
     {
-        "quote": 'I wonder if there is a slack for viruses where this morning a virus messaged "Have forced Ruth to stay home today!" and all the other viri added   and  or said "Good work!".\n',
+        "quote": '[RE: OOO messages] I wonder if there is a slack for viruses where this morning a virus messaged "Have forced Ruth to stay home today!" and all the other viri added :thumbs_up: and :dancing_dinosaur: or said "Good work!".\n',
         "date": "1/19/2018",
     },
     {
-        "quote": "If you had a 13 year old, you'd be happy to have some metal to stab it with.\n",
+        "quote": "[RE: Children] If you had a 13 year old, you'd be happy to have some metal to stab it with.\n",
         "date": "1/23/2018",
     },
     {
-        "quote": "I'm going down to nVidia today to get the nickel tour and have someone explain how the new EULA is actually a Good Idea(tm), should be back around 2:30-ish. If my    threshold is exceeded and I am arrested for excessive public old man ranting, do NOT help me make bail. This kind of behavior should not be encouraged, let the punishment fit the crime.\n",
+        "quote": "I'm going down to nVidia today to get the nickel tour and have someone explain how the new EULA is actually a Good Idea(tm), should be back around 2:30-ish. If my :bull: :poop: threshold is exceeded and I am arrested for excessive public old man ranting, do NOT help me make bail. This kind of behavior should not be encouraged, let the punishment fit the crime.\n",
         "date": "2/1/2018",
     },
     {
@@ -50,23 +46,23 @@ thoughts = [
         "date": "2/2/2018",
     },
     {
-        "quote": "This new world of constant surveillance is really challenging. Luckily I wore my dress hoodie today, so at least I look professional.\n",
+        "quote": "[RE: Rare photograph of griznog in the wild] This new world of constant surveillance is really challenging. Luckily I wore my dress hoodie today, so at least I look professional.\n",
         "date": "2/2/2018",
     },
     {
-        "quote": "Not until I retire, I depend on users to justify my existance and I'm not ready to start the 'coasting to the finish' phase of life yet.\n",
+        "quote": "[RE: Getting rid of users] Not until I retire, I depend on users to justify my existence and I'm not ready to start the 'coasting to the finish' phase of life yet.\n",
         "date": "2/9/2018",
     },
     {
-        "quote": 'First entry when I get my notebook: "Dear Notebook, Before I got you @kilian made fun of your pocket. But don\'t be sad, I like your pocket. You are my best friend, notebook."\n',
+        "quote": '[RE: Getting free notebook from Stanford] First entry when I get my notebook: "Dear Notebook, Before I got you @kilian made fun of your pocket. But don\'t be sad, I like your pocket. You are my best friend, notebook."\n',
         "date": "2/13/2018",
     },
     {
-        "quote": '"Dear Notebook, They continue to make fun of you, even @v who we thought was really nice is doing it. But don\'t be sad, we still have each other. BFFs, griznog"\n',
+        "quote": '[RE: Getting free notebook from Stanford] "Dear Notebook, They continue to make fun of you, even @v who we thought was really nice is doing it. But don\'t be sad, we still have each other. BFFs, griznog"\n',
         "date": "2/13/2018",
     },
     {
-        "quote": '"Dear notebook, Making fun of you became so complex that they created a container API and standard for mean notebook puns. The group is meeting with  VC this week and as much as it pains me, I am abandoning you in the hopes that my association with the pun container standard will result in a profitable IPO or buyout of our startup. It\'s been fun, @griznog"\n',
+        "quote": '[RE: Getting free notebook from Stanford] "Dear notebook, Making fun of you became so complex that they created a container API and standard for mean notebook puns. The group is meeting with VC this week and as much as it pains me, I am abandoning you in the hopes that my association with the pun container standard will result in a profitable IPO or buyout of our startup. It\'s been fun, @griznog"\n',
         "date": "2/13/2018",
     },
     {
@@ -74,32 +70,32 @@ thoughts = [
         "date": "2/21/2018",
     },
     {
-        "quote": "I had really good intentions of coming in once the sun was out, but my wife started making a pizza. Y'all are really nice people and I miss you, but... pizza. So maybe physical presence later this afternoon, until then virtual presence continues.\n",
+        "quote": "[RE: OOO] I had really good intentions of coming in once the sun was out, but my wife started making a pizza. Y'all are really nice people and I miss you, but... pizza. So maybe physical presence later this afternoon, until then virtual presence continues.\n",
         "date": "2/26/2018",
     },
     {
-        "quote": "A good  Software Carpentry project would be to build a coffin for Microsoft products.\n",
+        "quote": "A good Software Carpentry project would be to build a coffin for Microsoft products.\n",
         "date": "3/2/2018",
     },
     {"quote": "I am Batman!\n", "date": "3/5/2018"},
     {
-        "quote": "Just an FYI, it would appear I'm running about an hour late this morning. I suspect a government plot of some sort is behind this.\n",
+        "quote": "[RE: OOO] Just an FYI, it would appear I'm running about an hour late this morning. I suspect a government plot of some sort is behind this.\n",
         "date": "3/12/2018",
     },
     {
-        "quote": "This years time change was the best time change ever. People are saying, I hear things, that no president has ever had a time change with this many minutes. This time change was yuge. Biggest ever. America is one hour greater than the rest of the world. Believe me, when we put tariffs on time, and people say you can't put a tarrif on time, but our tariffs on time will be the best ever. The best.\n",
+        "quote": "[RE: Trump Impressions] This years time change was the best time change ever. People are saying, I hear things, that no president has ever had a time change with this many minutes. This time change was yuge. Biggest ever. America is one hour greater than the rest of the world. Believe me, when we put tariffs on time, and people say you can't put a tarrif on time, but our tariffs on time will be the best ever. The best.\n",
         "date": "3/12/2018",
     },
     {
-        "quote": "There's no such thing as 1.29 inches of pizza, that has long since crossed into casserole territory.\n",
+        "quote": "[RE: Chicago style \"pizza\"] There's no such thing as 1.29 inch thick pizza, that has long since crossed into casserole territory.\n",
         "date": "3/13/2018",
     },
     {
-        "quote": "We are prohibited from using good technical solutions by arbitrary red tape.\n",
+        "quote": "[RE: Academia] We are prohibited from using good technical solutions by arbitrary red tape.\n",
         "date": "3/15/2018",
     },
     {
-        "quote": "I will submit a ticket and we'll see which turtle wins this race.\n",
+        "quote": "[RE: IT Orgs] I will submit a ticket and we'll see which turtle wins this race.\n",
         "date": "3/15/2018",
     },
     {
@@ -107,7 +103,7 @@ thoughts = [
         "date": "3/22/2018",
     },
     {
-        "quote": "Yes, everyone wants their favorite hobby to be a real science, but at least for me I respond to what the people using the system ask for and none are asking for this yet. I generally assume they are the experts in their fields and when they need it, they'll let me know and be in a hurry for it. The sysadmin and cluster do not drive the science, the science drives the sysadmin and cluster.\n",
+        "quote": "[RE: Journals for Code Review] Yes, everyone wants their favorite hobby to be a real science, but at least for me I respond to what the people using the system ask for and none are asking for this yet. I generally assume they are the experts in their fields and when they need it, they'll let me know and be in a hurry for it. The sysadmin and cluster do not drive the science, the science drives the sysadmin and cluster.\n",
         "date": "3/27/2018",
     },
     {
@@ -115,7 +111,7 @@ thoughts = [
         "date": "3/23/2018",
     },
     {
-        "quote": "I don't think it's a waste, there seem to be some cases where containers for deployment and scaling make a lot of sense. If I were suddenly thrust into a business environment scaling up a web service I suspect I'd do it all with containers. That I don't see how it is useful in a research environment may simply be a lack of vision on my part, and I'm open to evidence to clear that vision up. But so far the arguments for containers (and cloud) in research have been extremely weak. Containers are a very effective hammer, but not every problem is a nail.\n",
+        "quote": "[RE: Containers in research] I don't think it's a waste, there seem to be some cases where containers for deployment and scaling make a lot of sense. If I were suddenly thrust into a business environment scaling up a web service I suspect I'd do it all with containers. That I don't see how it is useful in a research environment may simply be a lack of vision on my part, and I'm open to evidence to clear that vision up. But so far the arguments for containers (and cloud) in research have been extremely weak. Containers are a very effective hammer, but not every problem is a nail.\n",
         "date": "3/23/2018",
     },
     {
@@ -131,11 +127,11 @@ thoughts = [
         "date": "3/23/2018",
     },
     {
-        "quote": "If you can't be with the one you love, love the one you're with, or just grind your teeth and trudge forward.\n",
+        "quote": "[RE: Using sssd] If you can't be with the one you love, love the one you're with, or just grind your teeth and trudge forward.\n",
         "date": "3/28/2018",
     },
     {
-        "quote": "It's possible to love someone and spend a lot of effort helping them while sometimes wishing they didn't exist and squashing the urge to end them. My kids taught me how to do that.\n",
+        "quote": "[RE: Users] It's possible to love someone and spend a lot of effort helping them while sometimes wishing they didn't exist and squashing the urge to end them. My kids taught me how to do that.\n",
         "date": "4/19/2018",
     },
     {
@@ -144,7 +140,7 @@ thoughts = [
     },
     {"quote": "All kids think they deserve sudo\n", "date": "4/19/2018"},
     {
-        "quote": "job security. I get scared when any of this works too well.\n",
+        "quote": "[RE: Why API changes?] job security. I get scared when any of this works too well.\n",
         "date": "4/12/2018",
     },
     {"quote": "We are some seriously destructive meatsacks.\n", "date": "4/26/2018"},
@@ -165,7 +161,7 @@ thoughts = [
         "date": "5/15/2018",
     },
     {
-        "quote": "The bus driver left me alone in the bus, keys in and running. If I steal it can I later claim this was a pen test and I am the red team?\n",
+        "quote": "[RE: Security] The bus driver left me alone in the bus, keys in and running. If I steal it can I later claim this was a pen test and I am the red team?\n",
         "date": "5/2/2018",
     },
     {
@@ -181,7 +177,7 @@ thoughts = [
         "date": "5/10/2018",
     },
     {
-        "quote": "Walked across Cambridge and Boston (downtown) this morning, had forgotten how much I like the city. Some observations:1. After living in (more or less) smoke-free zones for the last 5 years, I had forgotten that smoking is still a thing people do.2. If you are smoking, may as well get your food/beverage at Dunkin Donuts, can't taste it anyway. High DD density area.3. Real cities lay out the downtown area as an inpenetrable hedge maze. What a great place to be a pedestrian.4. I had forgotten that there exist pedistrians who can and will stare down a dump truck with 1 second left on the walk signal, and win.5. The Longfellow bridge is being renovated, all the old wrought iron railings have been stripped and refinished, sidewalks are widened to be more open for people and bikes. It'll be really nice when it's done. This is one of my favorite bridges (the iron and stonework are great).6. I don't like crowds, but when they are unavoidable I like people  crowded sidewalks more than car crowded streets.\n",
+        "quote": "Walked across Cambridge and Boston (downtown) this morning, had forgotten how much I like the city. Some observations:\n1. After living in (more or less) smoke-free zones for the last 5 years, I had forgotten that smoking is still a thing people do.\n2. If you are smoking, may as well get your food/beverage at Dunkin Donuts, can't taste it anyway. High DD density area.\n3. Real cities lay out the downtown area as an inpenetrable hedge maze. What a great place to be a pedestrian.\n4. I had forgotten that there exist pedistrians who can and will stare down a dump truck with 1 second left on the walk signal, and win.\n5. The Longfellow bridge is being renovated, all the old wrought iron railings have been stripped and refinished, sidewalks are widened to be more open for people and bikes. It'll be really nice when it's done. This is one of my favorite bridges (the iron and stonework are great).\n6. I don't like crowds, but when they are unavoidable I like people crowded sidewalks more than car crowded streets.\n",
         "date": "5/16/2018",
     },
     {
@@ -197,7 +193,7 @@ thoughts = [
         "date": "5/17/2018",
     },
     {
-        "quote": 'me: shoots self in face\n user: "Oh, I\'ll just install the package locally then."\n me: "It\'s conflicting with your $HOME R install, take that out of your PATH"\n user: "I get an error when I load it, \'can\'t shumboozel /home/user/R/...\'\n me: "Sure" (installs package...)\n user: "Can you install this R package, it has a lot of dependencies."\n',
+        "quote": 'user: "Can you install this R package, it has a lot of dependencies."\nme: "Sure" (installs package...)\nuser: "I get an error when I load it, \'can\'t shumboozel /home/user/R/...\'\nme: "It\'s conflicting with your $HOME R install, take that out of your PATH"\nuser: "Oh, I\'ll just install the package locally then."me: shoots self in face',
         "date": "5/23/2018",
     },
     {
@@ -213,7 +209,7 @@ thoughts = [
         "date": "6/7/2018",
     },
     {
-        "quote": "Saying \"griznog is 5 times faster than a 2 year old half-wit toddler in the 100 yard dash\" doesn't really mean I'm headed to the olympics next year. But these articles rarely give any details on the capabilities of their equivalent of the two year old half-wit toddler.\n",
+        "quote": "[RE: Articles about 'cloud' success stories] Saying \"griznog is 5 times faster than a 2 year old half-wit toddler in the 100 yard dash\" doesn't really mean I'm headed to the olympics next year. But these articles rarely give any details on the capabilities of their equivalent of the two year old half-wit toddler.\n",
         "date": "6/7/2018",
     },
     {
@@ -221,7 +217,7 @@ thoughts = [
         "date": "6/11/2018",
     },
     {
-        "quote": "Damn, I felt special because she sent directly to me and Keith. So what you're saying is I'm just another customer and really have no special relationship with Dell? Like I'm just a regular person? Pants one leg at a time and all that?\n",
+        "quote": "[RE: Finding out a Dell invitiation was a form letter] Damn, I felt special because she sent directly to me and Keith. So what you're saying is I'm just another customer and really have no special relationship with Dell? Like I'm just a regular person? Pants one leg at a time and all that?\n",
         "date": "6/11/2018",
     },
     {
@@ -245,11 +241,11 @@ thoughts = [
         "date": "6/27/2018",
     },
     {
-        "quote": "This is why I don't read too closely. If you just skim articles like this you can pretend the AI is self aware and attended a small liberal arts school in the Northeast before discovering it's gift for organizing the elements into the periodic table. Also that the AI likes Star Trek fan fiction.\n",
+        "quote": "[RE: Articles about AI hype] This is why I don't read too closely. If you just skim articles like this you can pretend the AI is self aware and attended a small liberal arts school in the Northeast before discovering it's gift for organizing the elements into the periodic table. Also that the AI likes Star Trek fan fiction.\n",
         "date": "6/25/2018",
     },
     {
-        "quote": "Specifically, to Google the open butt means:\n Also, once again (and I never get tired of this) the cloud-to-butt chrome plugin pays big dividends.\n The power to pick up an app and move it -- to and from on-premises, our butt, or another butt -- at any time.",
+        "quote": "Also, once again (and I never get tired of this) the cloud-to-butt chrome plugin pays big dividends.\n\nSpecifically, to Google the open butt means:\nThe power to pick up an app and move it -- to and from on-premises, our butt, or another butt -- at any time.",
         "date": "6/27/2018",
     },
     {
@@ -257,7 +253,7 @@ thoughts = [
         "date": "6/27/2018",
     },
     {
-        "quote": "I've always wanted to be like Dick G. and all those similar to him, but sadly I'm just too damn lazy to put that much effort into myself. I can, however, do impersonations.\n",
+        "quote": "[RE: Self published biographies] I've always wanted to be like Dick G. and all those similar to him, but sadly I'm just too damn lazy to put that much effort into myself. I can, however, do impersonations.\n",
         "date": "7/3/2018",
     },
     {
@@ -277,7 +273,7 @@ thoughts = [
         "date": "7/9/2018",
     },
     {
-        "quote": "I've long since lost count of the number of these types of tools. Of the now dozens+ I've dealt with over the years, I can't recall a single one that did better than an adept Makefile author with a shared filesystem available could have done. But there seems to be no shortage of people/groups who, while apparently unable to muster the intellect to process the make manpage, seem to suffer from the delusion that they are deep enough thinkers to \"disrupt\" the concept of a workflow and somehow make \"reproducible\" things even though we've had reproducible things since the very first computer program ran successfully (before that its bugs were reproducible). This (and things similar) leave me in a conflicted state. As an ecologist, I cling to the idea that diversity is a Good Thing(tm) and because of this I cringe a bit at, for instance, the elimination of mosquitoes, as I see everything as part of the whole and the whole as evolving and changing continuously. Thus I value mosquitoes, even though I find them annoying. But applying that analogy to the tech world leaves me wondering, are all new ideas in this diverse realm just mosquitoes? What is the value of an ecosystem made up solely of subtly different parasites? Circling back around to the idea of bullshit jobs, I wind up wondering how much of our computing technology is bullshit tech? I spent some time in my logs this morning and watched systemd and dbus doing their thing. Absolutely nothing of value provided by either. Before they existed we could watch movies, play sounds, edit files, reboot our machines, etc... Now things like systemd more and more become the source of problems, with a negative feedback loop as more projects incorporate this bullshit into their own bullshit. Would Poettering be in a position to pepper us continually with brokenness and stupidity if our culture didn't equate morality and goodness with $HOURS_WORKED? He (and I, sadly) had to find something to do to be viewed as valuable to society; wouldn't we all be better off if he (and all the other mosquito breeders) had been raised in a world where teaching and service were the highest valued ways to spend time. A world where crap work like programming was left to degenerate, anti-social monsters who couldn't function out in normal society? Of course, maybe I am underestimating the degenerate, anti-social monster population and things like workflow tools and systemd were inevitable irrespective of societal values.\n $TOOLNAME is a suite of open-source development tools for creating and running computational workflows. $TOOLNAME Tools are developed by $GROUP_OF_PEOPLE with the goal of empowering researchers and developers to easily run reproducible analyses at scale.\n What is $TOOLNAME?\n I'm troubleshooting this thing, Rabix, and when I went to the website the first paragraph struck me as a beacon for humanity's failing approach to computation. As I continue to wander down the rabbithole of the \"bullshit jobs\" meme, considering what human activity and mores are actually worthwhile and contribute to a meaningful existence, things like this are standing out more and more often to me. I'll quote that paragraph here with variables as placeholders and ask the rhetorical question, how often does this get repeated across the breadth of our technology landscape?\n",
+        "quote": "  I'm troubleshooting this thing, Rabix, and when I went to the website the first paragraph struck me as a beacon for humanity's failing approach to computation. As I continue to wander down the rabbithole of the \"bullshit jobs\" meme, considering what human activity and mores are actually worthwhile and contribute to a meaningful existence, things like this are standing out more and more often to me. I'll quote that paragraph here with variables as placeholders and ask the rhetorical question, how often does this get repeated across the breadth of our technology landscape?\n\nWhat is $TOOLNAME?\n$TOOLNAME is a suite of open-source development tools for creating and running computational workflows. $TOOLNAME Tools are developed by $GROUP_OF_PEOPLE with the goal of empowering researchers and developers to easily run reproducible analyses at scale.\n  I've long since lost count of the number of these types of tools. Of the now dozens+ I've dealt with over the years, I can't recall a single one that did better than an adept Makefile author with a shared filesystem available could have done. But there seems to be no shortage of people/groups who, while apparently unable to muster the intellect to process the make manpage, seem to suffer from the delusion that they are deep enough thinkers to \"disrupt\" the concept of a workflow and somehow make \"reproducible\" things even though we've had reproducible things since the very first computer program ran successfully (before that its bugs were reproducible).\n  This (and things similar) leave me in a conflicted state. As an ecologist, I cling to the idea that diversity is a Good Thing(tm) and because of this I cringe a bit at, for instance, the elimination of mosquitoes, as I see everything as part of the whole and the whole as evolving and changing continuously. Thus I value mosquitoes, even though I find them annoying. But applying that analogy to the tech world leaves me wondering, are all new ideas in this diverse realm just mosquitoes? What is the value of an ecosystem made up solely of subtly different parasites?\n  Circling back around to the idea of bullshit jobs, I wind up wondering how much of our computing technology is bullshit tech? I spent some time in my logs this morning and watched systemd and dbus doing their thing. Absolutely nothing of value provided by either. Before they existed we could watch movies, play sounds, edit files, reboot our machines, etc... Now things like systemd more and more become the source of problems, with a negative feedback loop as more projects incorporate this bullshit into their own bullshit. Would Poettering be in a position to pepper us continually with brokenness and stupidity if our culture didn't equate morality and goodness with $HOURS_WORKED? He (and I, sadly) had to find something to do to be viewed as valuable to society; wouldn't we all be better off if he (and all the other mosquito breeders) had been raised in a world where teaching and service were the highest valued ways to spend time. A world where crap work like programming was left to degenerate, anti-social monsters who couldn't function out in normal society?\n Of course, maybe I am underestimating the degenerate, anti-social monster population and things like workflow tools and systemd were inevitable irrespective of societal values.",
         "date": "7/9/2018",
     },
     {
@@ -297,7 +293,7 @@ thoughts = [
         "date": "7/10/2018",
     },
     {
-        "quote": "RE: The cio channel, I just bought that Bullshit Jobs book and plan to read it on my trip, but having listened to several of his talks and interviews, it feels like he has brought structure to something that has been bugging me for decades. The #cio channel is a great example. Given that one class of bullshit job is the flunkie, who exists only to inflate the importance of a superior on the org chart, what you see there is a stream of flunkie confessions/interviews. Without knowing anyone posting there, I'd make the blanket assertion that although they may be great and very nice people, <Employer> IT and <Employer> could probably function perfectly well if they never showed up for work again.\n",
+        "quote": "RE: The cio channel, I just bought that Bullshit Jobs book and plan to read it on my trip, but having listened to several of his talks and interviews, it feels like he has brought structure to something that has been bugging me for decades. The #cio channel is a great example. Given that one class of bullshit job is the flunkie, who exists only to inflate the importance of a superior on the org chart, what you see there is a stream of flunkie confessions/interviews. Without knowing anyone posting there, I'd make the blanket assertion that although they may be great and very nice people, ${EMPLOYER} IT and ${EMPLOYER} could probably function perfectly well if they never showed up for work again.\n",
         "date": "7/12/2018",
     },
     {
@@ -358,7 +354,7 @@ thoughts = [
         "date": "8/1/2018",
     },
     {
-        "quote": "This is a tough topic. I like to think of race as a marker for the underlying culture. Some cultures value education and hard work, others less so. While I too am opposed to seeing a culture that values it (as many Asian cultures do) be restricted due to having the marker, at the same time how do we encourage other cultures to value it if they can't get admitted? This is the classic bootstrapping problem, how to people pull themselves by the bootstraps if they can't get bootstraps? The real solution is to provide free tuition to qualified students at public universities and community colleges and wait 2 or 3 (or more in some cases) generations for the problem to resolve itself. What Ivy league schools do impact, however, is the 1%. From that perspective one could say that considering race to increase diversity is reducing the white privilege over the long term and preventing it from becoming a swap for white for some other cultural optimization at that upper income level. I'd prefer to tackle that problem with a very, very progressive income tax and a big change in how capital gains are taxed (to fund the aforementioned public educations), but I don't see that happening anytime soon.\n",
+        "quote": "[RE: Admissions diversity] This is a tough topic. I like to think of race as a marker for the underlying culture. Some cultures value education and hard work, others less so. While I too am opposed to seeing a culture that values it (as many Asian cultures do) be restricted due to having the marker, at the same time how do we encourage other cultures to value it if they can't get admitted? This is the classic bootstrapping problem, how to people pull themselves by the bootstraps if they can't get bootstraps? The real solution is to provide free tuition to qualified students at public universities and community colleges and wait 2 or 3 (or more in some cases) generations for the problem to resolve itself. What Ivy league schools do impact, however, is the 1%. From that perspective one could say that considering race to increase diversity is reducing the white privilege over the long term and preventing it from becoming a swap for white for some other cultural optimization at that upper income level. I'd prefer to tackle that problem with a very, very progressive income tax and a big change in how capital gains are taxed (to fund the aforementioned public educations), but I don't see that happening anytime soon.\n",
         "date": "8/2/2018",
     },
     {
