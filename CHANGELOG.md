@@ -7,6 +7,7 @@ and **Merged pull requests**.
 The versions coincide with releases on pypi.
 
 ## [0.0.x](https://github.com/vsoch/griznog/tree/master) (0.0.x)
+ - more quotes from @griznog and context #3 (0.0.12)
  - adding wisdom shared with SCGPM #1 (0.0.11)
  - dummy release of griznog (0.0.1)
 
