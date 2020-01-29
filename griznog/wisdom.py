@@ -1426,4 +1426,8 @@ thoughts = [
         "quote": "Yes, that sounds great. I probably should have adult supervision anyway.\n",
         "date": "10/23/2017",
     },
-]
+    {
+        "quote": "There is a big lie, that once you recognize it can make life much more interesting. There is no difference between system administration and software engineering. The kernel is software, it talks to software called firmware. It's all software. Traditional sysadmins try to draw an arbitrary line between the OS and \"apps\" but it's stupid to do that. It's why I manage the SCG software stack, there really is no line between these things that is not imaginary. Calling yourself a \"sysadmin\" though has cultural benefits in that they expect you to be weird and quirky, dress funny and work odd hours.",
+        "date": "12/12/2019",
+    },
+        ]
