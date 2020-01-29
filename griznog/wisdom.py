@@ -87,7 +87,7 @@ thoughts = [
         "date": "3/12/2018",
     },
     {
-        "quote": "[RE: Chicago style \"pizza\"] There's no such thing as 1.29 inch thick pizza, that has long since crossed into casserole territory.\n",
+        "quote": '[RE: Chicago style "pizza"] There\'s no such thing as 1.29 inch thick pizza, that has long since crossed into casserole territory.\n',
         "date": "3/13/2018",
     },
     {
@@ -1427,7 +1427,7 @@ thoughts = [
         "date": "10/23/2017",
     },
     {
-        "quote": "There is a big lie, that once you recognize it can make life much more interesting. There is no difference between system administration and software engineering. The kernel is software, it talks to software called firmware. It's all software. Traditional sysadmins try to draw an arbitrary line between the OS and \"apps\" but it's stupid to do that. It's why I manage the SCG software stack, there really is no line between these things that is not imaginary. Calling yourself a \"sysadmin\" though has cultural benefits in that they expect you to be weird and quirky, dress funny and work odd hours.",
+        "quote": 'There is a big lie, that once you recognize it can make life much more interesting. There is no difference between system administration and software engineering. The kernel is software, it talks to software called firmware. It\'s all software. Traditional sysadmins try to draw an arbitrary line between the OS and "apps" but it\'s stupid to do that. It\'s why I manage the SCG software stack, there really is no line between these things that is not imaginary. Calling yourself a "sysadmin" though has cultural benefits in that they expect you to be weird and quirky, dress funny and work odd hours.',
         "date": "12/12/2019",
     },
-        ]
+]
